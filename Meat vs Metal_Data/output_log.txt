@@ -1,0 +1,63 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.361 seconds
+Platform assembly: C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Vinicius\Desktop\Area de trabalho\Meat vs Metal BETA TEST\Meat vs Metal_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2555.249023 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ce0 -> priority: 1 
+  Thread -> id: 3edc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.532134 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 239.
+Total: 0.994932 ms (FindLiveObjects: 0.023243 ms CreateObjectMapping: 0.013885 ms MarkObjects: 0.134327 ms  DeleteObjects: 0.823173 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.427132 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 0.233941 ms (FindLiveObjects: 0.024148 ms CreateObjectMapping: 0.020828 ms MarkObjects: 0.182021 ms  DeleteObjects: 0.006640 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.852756 ms
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 240.
+Total: 10.693108 ms (FindLiveObjects: 0.022035 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.139459 ms  DeleteObjects: 10.510783 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.420189 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2079.
+Total: 0.653829 ms (FindLiveObjects: 0.145194 ms CreateObjectMapping: 0.047995 ms MarkObjects: 0.416567 ms  DeleteObjects: 0.043166 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.110069 ms
+
+Unloading 850 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 4.724721 ms (FindLiveObjects: 0.053127 ms CreateObjectMapping: 0.035921 ms MarkObjects: 0.134931 ms  DeleteObjects: 4.499533 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.472713 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 5323.
+Total: 1.020892 ms (FindLiveObjects: 0.190474 ms CreateObjectMapping: 0.077276 ms MarkObjects: 0.703636 ms  DeleteObjects: 0.048599 ms)
+
